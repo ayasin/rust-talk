@@ -1,0 +1,9 @@
+[package]
+name = "lcf"
+version = "0.1.0"
+authors = ["Amir Yasin <ayasin@datatensor.com>"]
+
+[lib]
+crate-type = ["dylib"]  
+
+[dependencies]

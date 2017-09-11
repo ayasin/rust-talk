@@ -1,0 +1,13 @@
+{
+  "name": "lfc-test",
+  "version": "1.0.0",
+  "description": "A least common factor speed test",
+  "scripts": {
+    "start": "node lcf-test 54301483026227 54303841038067"
+  },
+  "author": "ayasin@datatensor.com",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.2.0"
+  }
+}
