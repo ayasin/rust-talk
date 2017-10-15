@@ -2,4 +2,4 @@
 High performance Javasript with Rust
 
 
-You can watch the original presentation here:. https://youtu.be/Pfbw4YPrwf4
+You can watch the original presentation here: https://youtu.be/Pfbw4YPrwf4
